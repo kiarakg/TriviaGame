@@ -105,3 +105,58 @@ $(document).ready(function(){
     },
   }
   
+// array of objects with the questions, possible answers, and the correct answer
+var questionBank =
+[
+  {
+    question: "What type of farm does Dwight own?",
+    answers: ["Bear Farm", "Beet Farm", "Beetle Farm"],
+    correct: "Beet Farm"
+  },
+
+  {
+    question: "How long were Pam and Roy engaged?",
+    answers: ["2 years", "3 years", "4 years"],
+    correct: "3 years"
+  },
+  {
+    question: "What name did Pam and Angela fight over for their babies?",
+    answers: ["Paul", "William", "Philip"],
+    correct: "Philip"
+  },
+  {
+    question: "Which of Angela's cats does Dwight freeze?",
+    answers: ["Sparkles", "Sprinkles", "Fluffy"],
+    correct: "Sprinkles"
+  },
+  {
+    question: "Which office employee did Michael hit with his car?",
+    answers: ["Kelly", "Meredith", "Creed"],
+    correct: "Meredith"
+  },
+  {
+    question: "What is Andy's nickname for Jim?",
+    answers: ["Big Tuna", "Jimbo", "Jimothy"],
+    correct: "Big Tuna"
+  },
+  {
+    question: "What tattoo is Andy forced to get?",
+    answers: ["A nard dog", "The Cornell logo", "A naked man"],
+    correct: "A nard dog"
+  },
+  {
+    question: "What is the name of the security guard?",
+    answers: ["Frank", "Hank", "John"],
+    correct: "Hank"
+  },
+  {
+    question: "Who is Dwight's Bestish Minch?",
+    answers: ["Jim", "Ryan", "Michael"],
+    correct: "Michael"
+  },
+  {
+    question: "Who has two thumbs and hates Todd Packer?",
+    answers: ["Jim", "Dwight","Stanley"],
+    correct: "Jim"
+  }
+]
