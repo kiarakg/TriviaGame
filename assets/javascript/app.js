@@ -150,7 +150,7 @@ var questionBank =
     correct: "Hank"
   },
   {
-    question: "Who is Dwight's Bestish Minch?",
+    question: "Who is Dwight's Bestest Mensch?",
     answers: ["Jim", "Ryan", "Michael"],
     correct: "Michael"
   },
