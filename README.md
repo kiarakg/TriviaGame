@@ -11,9 +11,14 @@ The game automatically ends when the time has elapsed.
 
 Good luck!
 
+## [Trivia Game App}(https://kiarakg.github.io/TriviaGame/)
+
+![pic](/assets/images/TriviaGame.png)
+
 ## Built With 
 * HTML
 * CSS
 * JQuery 
+* Javascript
 * Bootstrap
 
