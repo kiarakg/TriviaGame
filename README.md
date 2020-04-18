@@ -1,7 +1,5 @@
 # Trivia-Game
 
-https://kiarakg.github.io/TriviaGame/
-
 ## Description
 Test your knowledge of The Office with this multiple choice trivia game.
 
