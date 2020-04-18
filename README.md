@@ -11,7 +11,7 @@ The game automatically ends when the time has elapsed.
 
 Good luck!
 
-## [Trivia Game App}(https://kiarakg.github.io/TriviaGame/)
+## [Trivia Game App](https://kiarakg.github.io/TriviaGame/)
 
 ![pic](/assets/images/TriviaGame.png)
 
